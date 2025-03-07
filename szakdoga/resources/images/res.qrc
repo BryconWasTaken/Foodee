@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix=".png">
+    <file>3448102.png</file>
+    <file>start.png</file>
+    <file>files.png</file>
+    <file>arrow.png</file>
+  </qresource>
+  <qresource/>
+</RCC>
